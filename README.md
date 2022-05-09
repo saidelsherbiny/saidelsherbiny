@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @saidelsherbiny
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning machine learning
+- 📫 How to reach me at saidelsherbiny1@gmail.com 
