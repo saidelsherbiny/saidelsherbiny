@@ -14,5 +14,5 @@ some of the tools I use are:
                         - HackTheBox
                         - SecurityValley
                         - PWnable.kr
-                        - 
+                   
 - I post some of the solutions I find to those CTF's over here I hope you find my work helpfull!
