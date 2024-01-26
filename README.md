@@ -8,7 +8,7 @@ some of the tools I use are:
 - AZURE
 - Python
 
-I also love cybersecurity, I am currently working on my OCSP certifications.
+I also love cybersecurity, I am currently working on my OSCP certifications.
 Some of the CTFS I enjoy doing are:
 - HackTheBox
 - CyberSci 2023 3rd Position!
